@@ -11,7 +11,7 @@
 
 
 
-[![Padmapani's GitHub stats](https://github-readme-stats.vercel.app/api?username=padmpatra-deloitte&show_icons=true&theme=midnight-purple)](https://github.com/its-dastan)
+[![Padmapani's GitHub stats](https://github-readme-stats.vercel.app/api?username=padmpatra-deloitte&show_icons=true&theme=midnight-purple)](https://github.com/padmpatra-deloitte)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=padmpatra-deloitte&layout=compact&theme=tokyonight)](https://github.com/padmpatra-deloitte)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=padmpatra-deloitte&repo=mp2)](https://github.com/padmpatra-deloitte/mp2) -->
 
@@ -32,5 +32,5 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/padmapani-patra-4b5b87201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="padmapani-patra-4b5b87201" height="30" width="40" /></a>
-<a href="https://instagram.com/its.dastan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its.dastan" height="30" width="40" /></a>
+<a href="https://instagram.com/the_dastan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_dastan_" height="30" width="40" /></a>
 </p>
